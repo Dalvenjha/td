@@ -1,0 +1,683 @@
+{
+  "layout" : [
+
+     {
+      "unit": {
+        "id": 0,
+        "notes" : "basketball app"
+      },
+      "unit_blocks": [
+        {
+          "id": 0,
+          "params" : {
+            "required_amt": 3,
+            "triggers": ["s1","s2","s3"],
+            "slideshow" : "true"
+          },
+
+
+          "animation" : {
+            "start": {
+              "params": {
+                  "width": "100%",
+                  "height": "100%"
+                }
+            }
+            ,
+            "in": {
+              "params" : {
+                "scale" : 1
+              }
+            },
+            "out" : {
+              "params" : {
+                "scale": 1
+              }
+            }
+          }
+        }
+      ]
+    }
+
+    ,
+
+    {
+      "unit": {
+        "id": 1,
+        "notes" : "make -> unique -> oja"
+      },
+      "unit_blocks": [
+        {
+          "id": 0,
+          "params" : {
+            "required_amt" : 2,
+             "triggers": ["s2","s3"]
+          },
+          "animation" : {
+            "start": {
+              "params": {
+                "width": "50%",
+                "height": "100%",
+                "xPercent":-100
+              }
+            },
+            "in": {
+              "params" : {
+                "xPercent" : 0
+              }
+            },
+            "out" : {
+              "params" : {
+                "xPercent": 0
+              }
+            }
+          }
+        },
+        {
+          "id": 1,
+          "params" : {
+            "triggers": ["s2","s3"]
+          },
+          "animation" : {
+            "start": {
+              "params" : {
+                "width": "50%",
+                "height": "50%",
+                "xPercent": 200
+              }
+            },
+            "in": {
+              "params" : {
+                "xPercent" : 100
+              }
+            },
+            "out" : {
+              "params" : {
+                "xPercent": 0
+              }
+            }
+          }
+        },
+        {
+          "id": 2,
+          "params" : {
+            "required_amt" : 1,
+            "triggers": ["s2","s3"]
+          },
+          "animation" : {
+            "start": {
+              "params" : {
+                "width": "50%",
+                "height": "50%",
+                "xPercent": 200,
+                "yPercent": 100
+              }
+            },
+            "in": {
+              "params" : {
+                "xPercent" : 100
+              }
+            },
+            "out" : {
+              "params" : {
+                "xPercent": 0
+              }
+            }
+          }
+        }
+      ]
+    }
+
+    ,
+
+    {
+      "unit": {
+        "id": 2,
+        "notes" : "so let us - > toyota spot -> hermosa bag"
+      },
+      "unit_blocks": [
+        {
+          "id": 0,
+          "params" : {
+            "triggers": ["s5","s6"]
+          },
+          "animation" : {
+            "start": {
+              "params" : {
+                "width": "50%",
+                "height": "50%",
+                "xPercent": 200
+              }
+            },
+            "in": {
+              "params" : {
+                "xPercent" : 0
+              }
+            },
+            "out" : {
+              "params" : {
+                "xPercent": 0
+              }
+            }
+          }
+        },
+        {
+          "id": 1,
+          "params" : {
+            "required_amt" : 1,
+            "triggers": ["s5","s6"]
+          },
+          "animation" : {
+            "start": {
+              "params" : {
+                "width": "50%",
+                "height": "50%",
+                "yPercent": 100,
+                "xPercent": 200
+              }
+            },
+            "in": {
+              "params" : {
+                "xPercent" : 0
+              }
+            },
+            "out" : {
+              "params" : {
+                "xPercent": 0
+              }
+            }
+          }
+        },
+        {
+          "id": 2,
+          "params" : {
+            "required_amt" : 1,
+            "triggers": ["s5","s6"]
+          },
+          "animation" : {
+            "start": {
+              "params" : {
+                "width": "50%",
+                "height": "100%",
+                "xPercent": 200
+              }
+            },
+            "in": {
+              "params" : {
+                "xPercent" : 100
+              }
+            },
+            "out" : {
+              "params" : {
+                "xPercent": 0
+              }
+            }
+          }
+        }
+      ]
+    }
+
+    ,
+
+    {
+      "unit": {
+        "id": 3,
+        "notes" : "tiger woods -> inspires us "
+      },
+      "unit_blocks": [
+        {
+          "id": 0,
+          "params" : {
+            "required_amt" : 1,
+            "triggers" : ["s9"]
+          },
+          "animation" : {
+            "start": {
+              "params" : {
+                "width": "50%",
+                "height": "100%",
+                "xPercent" : -100
+              }
+            },
+            "in": {
+              "params" : {
+                "xPercent" : 0
+              }
+            },
+            "out" : {
+              "params" : {
+                "xPercent": 0
+              }
+            }
+          }
+        },
+
+        {
+          "id": 1,
+          "animation" : {
+            "start": {
+              "params": {
+                "width": "50%",
+                "height": "100%",
+                "xPercent": 200
+              }
+            },
+            "in": {
+              "params" : {
+                "xPercent" : 100
+              }
+            },
+            "out" : {
+              "params" : {
+                "xPercent": 100
+              }
+            }
+          }
+        }
+      ]
+    }
+
+    ,
+
+    {
+      "unit": {
+        "id": 4,
+        "notes" : "challenges us -> the world needs travelers "
+      },
+      "unit_blocks": [
+        {
+          "id": 0,
+          "animation" : {
+            "start": {
+              "params" : {
+                "width": "50%",
+                "height": "100%",
+                "yPercent" : -100
+              }
+            },
+            "in": {
+              "params" : {
+                "yPercent" : 0
+              }
+            },
+            "out" : {
+              "params" : {
+              }
+            }
+          }
+        },
+
+        {
+          "id": 1,
+          "params" : {
+            "required_amt" : 1,
+            "triggers" : ["s9"]
+          },
+          "animation" : {
+            "start": {
+              "params" : {
+                "width": "50%",
+                "height": "100%",
+                "yPercent" : 100,
+                "xPercent": 100
+              }
+            },
+            "in": {
+              "label" : "s9",
+              "params" : {
+                "yPercent" : 0
+              }
+            },
+            "out" : {
+              "label" : "s10",
+              "params" : {
+              }
+            }
+          }
+        }
+      ]
+    }
+
+    ,
+
+    {
+      "unit": {
+        "id": 5,
+        "notes" : "logos -> changes us "
+      },
+      "unit_blocks": [
+        {
+          "id": 0,
+          "params" : {
+            "required_amt" : 1,
+            "triggers" : ["s9"]
+          },
+          "animation" : {
+            "start": {
+              "params" : {
+                "width": "50%",
+                "height": "100%",
+                "xPercent" : -100
+              }
+            },
+            "in": {
+              "params" : {
+                "xPercent" : 0
+              }
+            },
+            "out" : {
+              "params" : {
+                "xPercent": 0
+              }
+            }
+          }
+        },
+
+        {
+          "id": 1,
+          "animation" : {
+            "start": {
+              "params" : {
+                "width": "50%",
+                "height": "100%",
+                "xPercent" : 200
+              }
+            },
+            "in": {
+              "params" : {
+                "xPercent" : 100
+              }
+            },
+            "out" : {
+              "params" : {
+              }
+            }
+          }
+        }
+      ]
+    }
+  ,
+
+    {
+      "unit": {
+        "id": 6,
+        "notes" : "ipad -> any helps us grow "
+      },
+      "unit_blocks": [
+        {
+          "id": 0,
+          "params" : {
+            "required_amt" : 1,
+            "triggers" : ["s9"]
+          },
+          "animation" : {
+            "start": {
+              "params" : {
+                "width": "50%",
+                "height": "100%",
+                "yPercent" : 100
+              }
+            },
+            "in": {
+              "params" : {
+                "yPercent" : 0
+              }
+            },
+            "out" : {
+              "params" : {
+              }
+            }
+          }
+        },
+
+        {
+          "id": 1,
+
+          "animation" : {
+            "start": {
+              "params" : {
+                "width": "50%",
+                "height": "100%",
+                "xPercent": 100,
+                "yPercent": -100
+              }
+            },
+            "in": {
+              "params" : {
+                "yPercent": 0
+              }
+            },
+            "out" : {
+              "params" : {
+              }
+            }
+          }
+        }
+      ]
+    },
+
+    {
+      "unit": {
+        "id": 7,
+        "notes" : "4-way split - moves down then right"
+      },
+      "unit_blocks": [
+        {
+          "id": 0,
+          "params" : {
+            "required_amt" : 3,
+            "triggers": ["s13","s14","s15"]
+          },
+
+          "animation" : {
+            "start": {
+              "params" : {
+                "width": "50%",
+                "height": "50%",
+                "xPercent" : -100
+              }
+            },
+            "in": {
+              "params" : {
+                "xPercent" : 0
+              }
+            },
+            "out" : {
+              "params" : {
+                "xPercent": 0
+              }
+            }
+          }
+        },
+
+        {
+          "id": 1,
+          "params" : {
+            "required_amt" : 3,
+            "triggers": ["s13","s14","s15"]
+          },
+          "animation" : {
+            "start": {
+              "params" : {
+                "width": "50%",
+                "height": "50%",
+                "yPercent": 200
+              }
+            },
+            "in": {
+              "params" : {
+                "yPercent" : 100
+              }
+            },
+            "out" : {
+              "params" : {
+                "yPercent": 100
+              }
+            }
+          }
+        }
+      ,
+        {
+          "id": 2,
+          "params" : {
+            "triggers": ["s13","s14","s15"]
+          },
+          "animation" : {
+            "start": {
+              "params" : {
+                "width": "50%",
+                "height": "50%",
+                "xPercent": 100,
+                "yPercent" : -100
+              }
+            },
+            "in": {
+              "params" : {
+                "yPercent" : 0
+              }
+            },
+            "out" : {
+              "params" : {
+                "xPercent": 100
+              }
+            }
+          }
+        }
+      ,
+        {
+          "id": 3,
+          "params" : {
+            "required_amt" : 3,
+            "triggers": ["s13","s14","s15"]
+          },
+          "animation" : {
+            "start": {
+              "params" : {
+                "width": "50%",
+                "height": "50%",
+                "xPercent": 200,
+                "yPercent": 100
+              }
+            },
+            "in": {
+              "params" : {
+                "xPercent" : 100
+              }
+            },
+            "out" : {
+              "params" : {
+                "yPercent" : 100
+              }
+            }
+          }
+        }
+      ]
+    }
+  ,
+
+    {
+      "unit": {
+        "id": 8,
+        "notes" : "gaga split"
+      },
+      "unit_blocks": [
+        {
+          "id": 0,
+          "params" : {
+            "required_amt" : 1,
+            "triggers": ["s16"]
+          },
+          "animation" : {
+            "start": {
+              "params" : {
+                "width": "50%",
+                "height": "100%",
+                "yPercent" : -100
+              }
+            },
+            "in": {
+              "params" : {
+                "yPercent" : 0
+              }
+            },
+            "out" : {
+              "params" : {
+              }
+            }
+          }
+        },
+        {
+          "id": 1,
+          "params" : {
+            "triggers": ["s16"]
+          },
+          "animation" : {
+            "start": {
+              "params" : {
+                "width": "50%",
+                "height": "100%",
+                "yPercent": 100,
+                "xPercent" : 100
+              }
+            },
+            "in": {
+              "params" : {
+                "yPercent" : 0
+
+              }
+            },
+            "out" : {
+              "params" : {
+              }
+            }
+          }
+        }
+      ]
+    }
+
+  ],
+  "data" : [],
+  "depth" : [
+    {
+      "unit": 0,
+      "depth": 1
+    },
+    {
+      "unit": 1,
+      "depth": 2
+    },
+    {
+      "unit": 2,
+      "depth": 3
+    },
+    {
+      "unit": 3,
+      "depth": 4
+    },
+    {
+      "unit": 4,
+      "depth": 5
+    },
+    {
+      "unit": 5,
+      "depth": 6
+    },
+    {
+      "unit": 6,
+      "depth": 7
+    },
+    {
+      "unit": 7,
+      "depth": 8
+    },
+    {
+      "unit": 8,
+      "depth": 9
+    },
+    {
+      "unit": 9,
+      "depth": 10
+    }
+  ]
+}
+

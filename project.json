@@ -1,0 +1,334 @@
+{
+  "layout" : [
+
+    {
+      "unit": {
+        "id": 0,
+        "notes" : "basketball app"
+      },
+      "unit_blocks": [
+        {
+          "id": 0,
+          "animation" : {
+            "start": {
+              "params": {
+                "width": "100%",
+                "height": "100%",
+                "xPercent": 0
+              }
+            },
+            "in": {
+              "params" : {
+                "xPercent" : 0
+              }
+            },
+            "out" : {
+              "params" : {
+                "xPercent": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "unit": {
+        "id": 1,
+        "notes" : "so let us - > toyota spot -> hermosa bag"
+      },
+      "unit_blocks": [
+        {
+          "id": 0,
+          "params" : {
+            "triggers": ["s5","s6"]
+          },
+          "animation" : {
+            "start": {
+              "params": {
+                "width": "50%",
+                "height": "50%",
+                "xPercent": 0
+              }
+            },
+            "in": {
+              "params" : {
+                "xPercent" : 0
+              }
+            },
+            "out" : {
+              "params" : {
+                "xPercent": 0
+              }
+            }
+          }
+        },
+        {
+          "id": 1,
+          "params" : {
+            "triggers": ["s5","s6"]
+          },
+          "animation" : {
+            "start": {
+              "params": {
+                "width": "50%",
+                "height": "50%",
+                "yPercent": 100
+              }
+            },
+            "in": {
+              "params" : {
+                "yPercent" : 100
+              }
+            },
+            "out" : {
+              "params" : {
+                "xPercent": 0
+              }
+            }
+          }
+        },
+        {
+          "id": 2,
+          "params" : {
+            "required_amt" : 2,
+            "triggers": ["s5","s6"]
+          },
+          "animation" : {
+            "start": {
+              "params" : {
+                "width": "50%",
+                "height": "100%",
+                "xPercent" : 100
+              }
+            },
+            "in": {
+              "params" : {
+                "xPercent" : 100
+              }
+            },
+            "out" : {
+              "params" : {
+                "xPercent": 0
+              }
+            }
+          }
+        }
+      ]
+    }
+  ,
+    {
+      "unit": {
+        "id": 2,
+        "notes" : "make -> unique -> oja"
+      },
+      "unit_blocks": [
+        {
+          "id": 0,
+          "params" : {
+            "required_amt" : 3,
+             "triggers": ["s2","s3","s4"]
+          },
+          "animation" : {
+            "start": {
+              "params": {
+
+                "width": "50%",
+                "height": "100%",
+                "xPercent": 0
+              }
+            },
+            "in": {
+              "params" : {
+                "xPercent" : 0
+              }
+            },
+            "out" : {
+              "params" : {
+                "xPercent": 0
+              }
+            }
+          }
+        },
+        {
+          "id": 1,
+          "params" : {
+            "triggers": ["s2","s3","s4"]
+          },
+          "animation" : {
+            "start": {
+              "params": {
+                "width": "50%",
+                "height": "50%",
+                "xPercent": 100
+              }
+            },
+            "in": {
+              "params" : {
+                "xPercent" : 100
+              }
+            },
+            "out" : {
+              "params" : {
+                "xPercent": 0
+              }
+            }
+          }
+        },
+        {
+          "id": 2,
+          "params" : {
+            "required_amt" : 3,
+            "triggers": ["s2","s3","s4"]
+          },
+          "animation" : {
+            "start": {
+              "params": {
+                "width": "50%",
+                "height": "50%",
+                "xPercent": 100,
+                "yPercent" : 100
+
+              }
+            },
+            "in": {
+              "params" : {
+                "xPercent" : 100,
+                "yPercent" : 100
+              }
+            },
+            "out" : {
+              "params" : {
+                "xPercent": 0
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+
+  "data" : [
+    {
+      "unit": {
+        "id": 0
+      },
+      "unit_blocks": [
+        {
+          "placement" : 0,
+          "content": [
+            {
+              "img": "temp1_1x.jpg",
+              "_video": "video/cnc.mp4",
+              "__tagline": {
+                "tagline": "find, build and share the best part of you",
+                "color" : "#222222"
+              },
+              "title": {
+                "title": "train w/heroes",
+                "route": "train-with-heroes",
+                "description": "a fit future for force number",
+                "is_showing" : "true",
+                "x": 0.7,
+                "y": 0.6
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ,
+    {
+      "unit": {
+        "id": 1
+      },
+      "unit_blocks": [
+        {
+          "placement": 0,
+          "content": [
+            {
+              "header": "so let us listen<br>and serve to discover<br>the best in you.",
+              "copy": "The bold truth? The passion? The eccentricity? The quirk? The innovative process? The freak moment? The smell? The stitch? The sparkle? Let’s dig deep.",
+              "backgroundColor": "#c9d0da"
+            }
+          ]
+        },
+        {
+          "placement": 1,
+          "params": {
+            "backgroundColor": "#d5d7d2"
+          },
+          "content": [
+            {
+              "img": "home/13.jpg"
+            }
+          ]
+        },
+        {
+          "placement": 2,
+          "content": [
+            {
+              "img": "home/12.jpg"
+            }
+          ]
+        }
+        ]
+    }
+    ,
+
+    {
+      "unit": {
+        "id": 2
+      },
+      "unit_blocks": [
+        {
+          "placement" : 0,
+          "content": [
+            {
+              "img": "home/6.jpg"
+            }
+          ]
+        },
+        {
+          "placement" : 1,
+          "params" : {
+            "backgroundColor": "#d5d7d2"
+          },
+          "content": [
+            {
+              "header": "you can be a superhero<br>or an anti-hero",
+              "copy": "Royalty or the mad scientist. You can be sexy or smart. Black & white, or green. Maybe you’ll travel back in time, or launch into the future. You might do what’s never been done, or carry forward a 300-year tradition.",
+              "backgroundColor": "#d5d7d2"
+            }
+          ]
+        },
+        {
+          "placement": 2,
+          "content": [
+            {
+              "img": "heroes.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "depth" : [
+    {
+      "unit": 0,
+      "depth": 1
+    },
+    {
+      "unit": 1,
+      "depth": 2
+    },
+    {
+      "unit": 2,
+      "depth": 3
+    }
+  ],
+  "project" : {
+    "title":"Train With Heroes",
+    "description":"Whatever Description Goes Here",
+    "route":"train-with-heroes"
+  }
+}

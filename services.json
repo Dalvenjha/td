@@ -1,0 +1,85 @@
+[
+   {
+      "id":259,
+      "date":"2017-06-20T21:52:10",
+      "date_gmt":"2017-06-20T21:52:10",
+      "guid":{
+         "rendered":"http:\/\/new:8888\/?post_type=services&p=259"
+      },
+      "modified":"2018-04-13T05:42:49",
+      "modified_gmt":"2018-04-13T05:42:49",
+      "slug":"259",
+      "status":"publish",
+      "type":"services",
+      "link":"http:\/\/api.akinsparker.com\/services\/259\/",
+      "title":{
+         "rendered":"services"
+      },
+      "content":{
+         "rendered":"",
+         "protected":false
+      },
+      "template":"",
+      "acf":{
+         "services":[
+            {
+               "value":"item 01.",
+               "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad.",
+               "color_line":"#ffffff",
+               "color_solid":"#ffffff",
+               "color_background":"#8dc549"
+            },
+            {
+               "value":"item 02.",
+               "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad.",
+               "color_line":"#ffffff",
+               "color_solid":"#ffffff",
+               "color_background":"#85bc56"
+            },
+            {
+               "value":"item 03.",
+               "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad.",
+               "color_line":"#ffffff",
+               "color_solid":"#ffffff",
+               "color_background":"#7db464"
+            },
+            {
+               "value":"item 04.",
+               "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad.",
+               "color_line":"#ffffff",
+               "color_solid":"#ffffff",
+               "color_background":"#74ab72"
+            }
+         ]
+      },
+      "_links":{
+         "self":[
+            {
+               "href":"http:\/\/api.akinsparker.com\/wp-json\/wp\/v2\/services\/259"
+            }
+         ],
+         "collection":[
+            {
+               "href":"http:\/\/api.akinsparker.com\/wp-json\/wp\/v2\/services"
+            }
+         ],
+         "about":[
+            {
+               "href":"http:\/\/api.akinsparker.com\/wp-json\/wp\/v2\/types\/services"
+            }
+         ],
+         "wp:attachment":[
+            {
+               "href":"http:\/\/api.akinsparker.com\/wp-json\/wp\/v2\/media?parent=259"
+            }
+         ],
+         "curies":[
+            {
+               "name":"wp",
+               "href":"https:\/\/api.w.org\/{rel}",
+               "templated":true
+            }
+         ]
+      }
+   }
+]

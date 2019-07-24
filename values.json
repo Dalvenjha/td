@@ -1,0 +1,85 @@
+[
+   {
+      "id":254,
+      "date":"2017-06-20T21:46:28",
+      "date_gmt":"2017-06-20T21:46:28",
+      "guid":{
+         "rendered":"http:\/\/new:8888\/?post_type=values&p=254"
+      },
+      "modified":"2018-04-13T19:51:11",
+      "modified_gmt":"2018-04-13T19:51:11",
+      "slug":"values",
+      "status":"publish",
+      "type":"values",
+      "link":"http:\/\/api.akinsparker.com\/values\/values\/",
+      "title":{
+         "rendered":"values"
+      },
+      "content":{
+         "rendered":"",
+         "protected":false
+      },
+      "template":"",
+      "acf":{
+         "values":[
+            {
+               "value":"item 01.",
+               "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad.",
+               "color_line":"#ffffff",
+               "color_solid":"#ffffff",
+               "color_background":"#ed403d"
+            },
+            {
+               "value":"item 02.",
+               "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad.",
+               "color_line":"#ffffff",
+               "color_solid":"#ffffff",
+               "color_background":"#ed403d"
+            },
+            {
+               "value":"item 03.",
+               "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad.",
+               "color_line":"#ffffff",
+               "color_solid":"#ffffff",
+               "color_background":"#db3c4f"
+            },
+            {
+               "value":"item 04.",
+               "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad.",
+               "color_line":"#ffffff",
+               "color_solid":"#ffffff",
+               "color_background":"#d13957"
+            }
+         ]
+      },
+      "_links":{
+         "self":[
+            {
+               "href":"http:\/\/api.akinsparker.com\/wp-json\/wp\/v2\/values\/254"
+            }
+         ],
+         "collection":[
+            {
+               "href":"http:\/\/api.akinsparker.com\/wp-json\/wp\/v2\/values"
+            }
+         ],
+         "about":[
+            {
+               "href":"http:\/\/api.akinsparker.com\/wp-json\/wp\/v2\/types\/values"
+            }
+         ],
+         "wp:attachment":[
+            {
+               "href":"http:\/\/api.akinsparker.com\/wp-json\/wp\/v2\/media?parent=254"
+            }
+         ],
+         "curies":[
+            {
+               "name":"wp",
+               "href":"https:\/\/api.w.org\/{rel}",
+               "templated":true
+            }
+         ]
+      }
+   }
+]
