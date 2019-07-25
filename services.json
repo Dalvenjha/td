@@ -23,32 +23,60 @@
       "acf":{
          "services":[
             {
-               "value":"item 01.",
-               "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad.",
+               "value":"Estrategias de comunicación.",
+               "description":"Te ayudamos a navegar en el panorama de las comunicaciones, perfeccionando tu historia e identificando un ecosistema ideal para el mensaje que quiere transmitir tu marca.",
                "color_line":"#ffffff",
                "color_solid":"#ffffff",
-               "color_background":"#8dc549"
+               "color_background":"#9bcdeb"
             },
             {
-               "value":"item 02.",
-               "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad.",
+               "value":"Campañas integradas.",
+               "description":"Si lo que buscas es marketing 360º, te ofrecemos una estrategia 100% digital con integración en activaciones Off-Line.",
                "color_line":"#ffffff",
                "color_solid":"#ffffff",
-               "color_background":"#85bc56"
+               "color_background":"#6eb7e6"
             },
             {
-               "value":"item 03.",
-               "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad.",
+               "value":"Brand expression.",
+               "description":"Desarrollamos identidades corporativas desde el UX, Naming, logos, diseño de producto, etc. ¡Tu marca es todo!",
                "color_line":"#ffffff",
                "color_solid":"#ffffff",
-               "color_background":"#7db464"
+               "color_background":"#5ba1db"
             },
             {
-               "value":"item 04.",
-               "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad.",
+               "value":"Metodologías / Human.",
+               "description":"Las interacciones a escala humana en un entorno construido son algunas de las conexiones más poderosas que podemos hacer por tu marca con Agiles Scrum.",
                "color_line":"#ffffff",
                "color_solid":"#ffffff",
-               "color_background":"#74ab72"
+               "color_background":"#4173b5"
+            },
+            {
+               "value":"Media Planning.",
+               "description":"Saber dónde comunicarse y a qué escala, requiere de un pensamiento estratégico y estadístico. Es vital para el éxito de cada campaña.",
+               "color_line":"#ffffff",
+               "color_solid":"#ffffff",
+               "color_background":"#3d6ca1"
+            },
+            {
+               "value":"Social Media Content.",
+               "description":"LinkedIn, Facebook, Instagram, YouTube, entre otras plataformas, tienen un propósito en cada marca según su público objetivo. Generamos contenido de alto impacto en las plataformas adecuadas.",
+               "color_line":"#ffffff",
+               "color_solid":"#ffffff",
+               "color_background":"#365f98"
+            },
+            {
+               "value":"Packing Design.",
+               "description":"No solo hay que serlo, sino parecerlo.",
+               "color_line":"#ffffff",
+               "color_solid":"#ffffff",
+               "color_background":"#254261"
+            },
+            {
+               "value":"Consultoría Digital.",
+               "description":"En una sesión podrás aprender lo esencial del marketing digital y tendrás la noción suficiente para poner a tu marca en el camino correcto para lograr el éxito.",
+               "color_line":"#ffffff",
+               "color_solid":"#ffffff",
+               "color_background":"#1e3346"
             }
          ]
       },

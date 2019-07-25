@@ -61,7 +61,7 @@
                "content":[
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/01.jpg",
+                     "media":"http:\/\/luisvelito.dev\/td\/img\/01.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"aaa",
@@ -100,7 +100,7 @@
                   },
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/02.jpg",
+                     "media":"http:\/\/luisvelito.dev\/td\/img\/02.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -139,7 +139,7 @@
                   },
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/03.jpg",
+                     "media":"http:\/\/luisvelito.dev\/td\/img\/03.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -217,7 +217,7 @@
                "content":[
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/04.jpg",
+                     "media":"http:\/\/luisvelito.dev\/td\/img\/04.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -229,7 +229,7 @@
                   },
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/05.jpg",
+                     "media":"http:\/\/luisvelito.dev\/td\/img\/05.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -316,7 +316,7 @@
                "content":[
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/06.jpg",
+                     "media":"http:\/\/luisvelito.dev\/td\/img\/06.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -367,7 +367,7 @@
                "content":[
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/07.jpg",
+                     "media":"http:\/\/luisvelito.dev\/td\/img\/07.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"aaa",
@@ -391,7 +391,7 @@
                "content":[
                   {
                      "type":"text",
-                     "media":"http:\/\/localhost\/td\/img\/thum_01.jpg",
+                     "media":"http:\/\/luisvelito.dev\/td\/img\/thum_01.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"Por que la definición<br> de las cosas",
@@ -442,7 +442,7 @@
                "content":[
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/08.jpg",
+                     "media":"http:\/\/luisvelito.dev\/td\/img\/08.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -493,7 +493,7 @@
                "content":[
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/09.jpg",
+                     "media":"http:\/\/luisvelito.dev\/td\/img\/09.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -568,7 +568,7 @@
                "content":[
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/10.jpg",
+                     "media":"http:\/\/luisvelito.dev\/td\/img\/10.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"bbb",
@@ -595,8 +595,8 @@
                      "media":"",
                      "vimeo_link":"",
                      "thumb":false,
-                     "text":"seccion tres<br>a dos espacios;",
-                     "background_color":"#3351a1",
+                     "text":"Esto genera<br> poder en la gente",
+                     "background_color":"#e03b23",
                      "text_color":"#ffffff",
                      "header":"",
                      "copy":"",
@@ -619,8 +619,8 @@
                      "media":false,
                      "vimeo_link":"",
                      "thumb":false,
-                     "text":"seccion cuatro",
-                     "background_color":"#dd5b56",
+                     "text":"Para inspirarnos",
+                     "background_color":"#df6821",
                      "text_color":"#ffffff",
                      "header":"",
                      "copy":"",
@@ -667,7 +667,7 @@
                "content":[
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/11.jpg",
+                     "media":"http:\/\/luisvelito.dev\/td\/img\/11.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -718,7 +718,7 @@
                "content":[
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/12.jpg",
+                     "media":"http:\/\/luisvelito.dev\/td\/img\/12.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -745,8 +745,8 @@
                      "media":false,
                      "vimeo_link":"",
                      "thumb":false,
-                     "text":"seccion cinco,",
-                     "background_color":"#040303",
+                     "text":"Para desafiarnos",
+                     "background_color":"#151515",
                      "text_color":"#ffffff",
                      "header":"",
                      "copy":"",
@@ -793,7 +793,7 @@
                "content":[
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/13.jpg",
+                     "media":"http:\/\/luisvelito.dev\/td\/img\/13.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -820,8 +820,8 @@
                      "media":false,
                      "vimeo_link":"",
                      "thumb":false,
-                     "text":"seccion seis,<br>a dos lineas,",
-                     "background_color":"#f29b39",
+                     "text":"Generando cambios<br> para seguir evolucionando.",
+                     "background_color":"#25395f",
                      "text_color":"#ffffff",
                      "header":"",
                      "copy":"",
@@ -868,7 +868,7 @@
                "content":[
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/14.jpg",
+                     "media":"http:\/\/luisvelito.dev\/td\/img\/14.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -880,7 +880,7 @@
                   },
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/15.jpg",
+                     "media":"http:\/\/luisvelito.dev\/td\/img\/15.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -892,7 +892,7 @@
                   },
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/16.jpg",
+                     "media":"http:\/\/luisvelito.dev\/td\/img\/16.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -919,8 +919,8 @@
                      "media":false,
                      "vimeo_link":"",
                      "thumb":false,
-                     "text":"seccion siete<br>a dos lineas nuevamente",
-                     "background_color":"#2f3642",
+                     "text":"Y hacer posible<br> devoluciones frescas.",
+                     "background_color":"#15a694",
                      "text_color":"#ffffff",
                      "header":"",
                      "copy":"",
@@ -931,8 +931,8 @@
                      "media":false,
                      "vimeo_link":"",
                      "thumb":false,
-                     "text":"seccion ocho<br>a tres lineas<br>con br,",
-                     "background_color":"#eb5d2d",
+                     "text":"Donde las nuevas ideas<br> te llevan a lugares imprevistos.",
+                     "background_color":"#152a33",
                      "text_color":"",
                      "header":"",
                      "copy":"",
@@ -943,8 +943,8 @@
                      "media":false,
                      "vimeo_link":"",
                      "thumb":false,
-                     "text":"seccion nueve<br>a dos lineas,",
-                     "background_color":"#464740",
+                     "text":"Donde las oportunidades<br> ocultas, aparecen.",
+                     "background_color":"#c69245",
                      "text_color":"",
                      "header":"",
                      "copy":"",
@@ -991,7 +991,7 @@
                "content":[
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/17.jpg",
+                     "media":"http:\/\/luisvelito.dev\/td\/img\/17.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -1003,7 +1003,7 @@
                   },
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/18.jpg",
+                     "media":"http:\/\/luisvelito.dev\/td\/img\/18.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -1015,7 +1015,7 @@
                   },
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/19.jpg",
+                     "media":"http:\/\/luisvelito.dev\/td\/img\/19.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -1066,7 +1066,7 @@
                "content":[
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/20.jpg",
+                     "media":"http:\/\/luisvelito.dev\/td\/img\/20.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -1078,7 +1078,7 @@
                   },
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/21.jpg",
+                     "media":"http:\/\/luisvelito.dev\/td\/img\/21.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -1090,7 +1090,7 @@
                   },
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/22.jpg",
+                     "media":"http:\/\/luisvelito.dev\/td\/img\/22.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -1117,8 +1117,8 @@
                      "media":false,
                      "vimeo_link":"",
                      "thumb":false,
-                     "text":"seccion diez<br>doble espacio<br>a tres lineas.",
-                     "background_color":"#101010",
+                     "text":"Para hacer un mundo<br> mejor y sostenible.",
+                     "background_color":"#262d58",
                      "text_color":"#ffffff",
                      "header":"",
                      "copy":"",
@@ -1165,7 +1165,7 @@
                "content":[
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/23.jpg",
+                     "media":"http:\/\/luisvelito.dev\/td\/img\/23.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",

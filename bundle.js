@@ -217,16 +217,21 @@
                 this.home = this;
                 var t = {
                     menu: [{
-                        title: "listado uno",
+                        title: "Valores",
                         route: "values"
                     }, {
-                        title: "listado dos",
+                        title: "Servicios",
                         route: "services"
                     }, {
-                        title: "interna",
-                        route: "project/proyecto"
-                    }, {
-                        title: "contacto",
+                        title: "Proyectos",
+                        route: "classic"
+                    }, 
+                    // {
+                    //     title: "interna",
+                    //     route: "project/proyecto"
+                    // }, 
+                    {
+                        title: "Contacto",
                         route: "contact"
                     }],
                     backgroundColor: "rgba(0,0,0,.95)",
@@ -4933,11 +4938,11 @@
                 this.locations = [
                 {
                     location: "Lima, Peru",
-                    email: "correo@dominio.com",
-                    address: "Direccion<br>Lima, Peru",
+                    email: "hello@digitalminds.pe",
+                    address: "Av. Del Pinar 124Interior – 402<br>Lima, Peru",
                     address_mobile: "Direccion<br>Lima, Peru",
                     maps: "https://www.google.com/maps/place/Av.+del+Pinar+124,+Lima+15038/@-12.1124406,-76.9897531,19z/data=!3m1!4b1!4m5!3m4!1s0x9105c7ec9124d10b:0x2a27a88a61ba5adb!8m2!3d-12.1124406!4d-76.9892059",
-                    phone: "511.987654321"
+                    phone: "511.959753785"
                 }],
                 this.phones = [],
                 this.emails = [],
@@ -4949,6 +4954,9 @@
                         color: "white",
                         width: 325,
                         y: 377 * t,
+                        attr: {
+                            "id": "contactus"
+                        },
                         pointerEvents: "auto",
                         userSelect: "auto"
                     });

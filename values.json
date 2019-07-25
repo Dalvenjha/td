@@ -23,32 +23,81 @@
       "acf":{
          "values":[
             {
-               "value":"item 01.",
-               "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad.",
+               "value":"Servicios.",
+               "description":"Tener una cultura centrada en el cliente es esencial para nosotros. Hace posible la construcción de relaciones a largo plazo, basadas en la confianza.",
                "color_line":"#ffffff",
                "color_solid":"#ffffff",
-               "color_background":"#ed403d"
+               "color_background":"#6db7ad"
             },
             {
-               "value":"item 02.",
-               "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad.",
+               "value":"Pensamos. No solo decoramos.",
+               "description":"El estilo es importante para crear un gran trabajo, pero si éste no tiene un \"para qué \", no tendrá un propósito diferencial.",
                "color_line":"#ffffff",
                "color_solid":"#ffffff",
-               "color_background":"#ed403d"
+               "color_background":"#6db7ad"
             },
             {
-               "value":"item 03.",
-               "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad.",
+               "value":"Celebramos ideas extrañas.",
+               "description":"Si podemos eliminar el miedo a no conformarnos, podemos abrazar nuevas posibilidades y comenzar a ver una marca desde ángulos realmente únicos.",
                "color_line":"#ffffff",
                "color_solid":"#ffffff",
-               "color_background":"#db3c4f"
+               "color_background":"#5fa89e"
             },
             {
-               "value":"item 04.",
-               "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad.",
+               "value":"Sabemos escuchar.",
+               "description":"La publicidad es sobre todo escuchar. Para conocer una marca y una audiencia, necesitamos escuchar y llegar más allá de las ideas preconcebidas.",
                "color_line":"#ffffff",
                "color_solid":"#ffffff",
-               "color_background":"#d13957"
+               "color_background":"#4d8983"
+            },
+            {
+               "value":"Hacemos conocidos a nuestros clientes, no a nosotros.",
+               "description":"Nos valemos del éxito y satisfacción de nuestros clientes.",
+               "color_line":"#ffffff",
+               "color_solid":"#ffffff",
+               "color_background":"#4b8587"
+            },
+            {
+               "value":"Fomentamos la creatividad en los demás.",
+               "description":"El creativo celebra la creatividad de los demás. Recordamos animar el trabajo de las personas sentadas a nuestro lado.",
+               "color_line":"#ffffff",
+               "color_solid":"#ffffff",
+               "color_background":"#447881"
+            },
+            {
+               "value":"Movernos Audazmente.",
+               "description":"No solo se necesitan buenas ideas, empujamos la creatividad enfocándola en conceptos que trasciendan.",
+               "color_line":"#ffffff",
+               "color_solid":"#ffffff",
+               "color_background":"#43756d"
+            },
+            {
+               "value":"Invertimos sabiamente.",
+               "description":"No es un servicio barato, pero la buena administración de los recursos genera sentido cuando somos creativamente responsables.",
+               "color_line":"#ffffff",
+               "color_solid":"#ffffff",
+               "color_background":"#3e6d61"
+            },
+            {
+               "value":"Balanceamos la calidad de vida.",
+               "description":"Priorizamos la vida, porque es importante para cada uno de nosotros, pero cumplimos nuestro trabajo siendo exigentes. Sabemos que hay un mundo allá afuera.",
+               "color_line":"#ffffff",
+               "color_solid":"#ffffff",
+               "color_background":"#355d63"
+            },
+            {
+               "value":"Construimos un ambiente creativo.",
+               "description":"El ambiente físico contribuye directamente al nacimiento de las ideas. Permite cultivar nuestros espacios para facilitar el pensamiento creativo.",
+               "color_line":"#ffffff",
+               "color_solid":"#ffffff",
+               "color_background":"#2d4f61"
+            },
+            {
+               "value":"Nunca dejamos de aprender.",
+               "description":"Cuanto más podamos abrazar la curiosidad y la humildad,  mejor trabajaremos para crecer como compañía.",
+               "color_line":"#ffffff",
+               "color_solid":"#ffffff",
+               "color_background":"#254061"
             }
          ]
       },
