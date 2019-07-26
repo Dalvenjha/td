@@ -61,7 +61,7 @@
                "content":[
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/01.jpg",
+                     "media":"https:\/\/luisvelito.dev\/td\/img\/01.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"aaa",
@@ -100,7 +100,7 @@
                   },
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/02.jpg",
+                     "media":"https:\/\/luisvelito.dev\/td\/img\/02.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -139,7 +139,7 @@
                   },
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/03.jpg",
+                     "media":"https:\/\/luisvelito.dev\/td\/img\/03.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -217,7 +217,7 @@
                "content":[
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/04.jpg",
+                     "media":"https:\/\/luisvelito.dev\/td\/img\/04.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -229,7 +229,7 @@
                   },
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/05.jpg",
+                     "media":"https:\/\/luisvelito.dev\/td\/img\/05.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -316,7 +316,7 @@
                "content":[
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/06.jpg",
+                     "media":"https:\/\/luisvelito.dev\/td\/img\/06.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -367,7 +367,7 @@
                "content":[
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/07.jpg",
+                     "media":"https:\/\/luisvelito.dev\/td\/img\/07.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"aaa",
@@ -391,7 +391,7 @@
                "content":[
                   {
                      "type":"text",
-                     "media":"http:\/\/localhost\/td\/img\/thum_01.jpg",
+                     "media":"https:\/\/luisvelito.dev\/td\/img\/thum_01.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"Por que la definición<br> de las cosas",
@@ -442,7 +442,7 @@
                "content":[
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/08.jpg",
+                     "media":"https:\/\/luisvelito.dev\/td\/img\/08.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -493,7 +493,7 @@
                "content":[
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/09.jpg",
+                     "media":"https:\/\/luisvelito.dev\/td\/img\/09.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -568,7 +568,7 @@
                "content":[
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/10.jpg",
+                     "media":"https:\/\/luisvelito.dev\/td\/img\/10.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"bbb",
@@ -667,7 +667,7 @@
                "content":[
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/11.jpg",
+                     "media":"https:\/\/luisvelito.dev\/td\/img\/11.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -718,7 +718,7 @@
                "content":[
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/12.jpg",
+                     "media":"https:\/\/luisvelito.dev\/td\/img\/12.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -793,7 +793,7 @@
                "content":[
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/13.jpg",
+                     "media":"https:\/\/luisvelito.dev\/td\/img\/13.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -868,7 +868,7 @@
                "content":[
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/14.jpg",
+                     "media":"https:\/\/luisvelito.dev\/td\/img\/14.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -880,7 +880,7 @@
                   },
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/15.jpg",
+                     "media":"https:\/\/luisvelito.dev\/td\/img\/15.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -892,7 +892,7 @@
                   },
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/16.jpg",
+                     "media":"https:\/\/luisvelito.dev\/td\/img\/16.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -991,7 +991,7 @@
                "content":[
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/17.jpg",
+                     "media":"https:\/\/luisvelito.dev\/td\/img\/17.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -1003,7 +1003,7 @@
                   },
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/18.jpg",
+                     "media":"https:\/\/luisvelito.dev\/td\/img\/18.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -1015,7 +1015,7 @@
                   },
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/19.jpg",
+                     "media":"https:\/\/luisvelito.dev\/td\/img\/19.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -1066,7 +1066,7 @@
                "content":[
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/20.jpg",
+                     "media":"https:\/\/luisvelito.dev\/td\/img\/20.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -1078,7 +1078,7 @@
                   },
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/21.jpg",
+                     "media":"https:\/\/luisvelito.dev\/td\/img\/21.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -1090,7 +1090,7 @@
                   },
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/22.jpg",
+                     "media":"https:\/\/luisvelito.dev\/td\/img\/22.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
@@ -1165,7 +1165,7 @@
                "content":[
                   {
                      "type":"image",
-                     "media":"http:\/\/localhost\/td\/img\/23.jpg",
+                     "media":"https:\/\/luisvelito.dev\/td\/img\/23.jpg",
                      "vimeo_link":"",
                      "thumb":false,
                      "text":"",
