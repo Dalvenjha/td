@@ -1,0 +1,80 @@
+[
+   {
+      "id":295,
+      "date":"2017-06-21T23:33:21",
+      "date_gmt":"2017-06-21T23:33:21",
+      "guid":{
+         "rendered":"http:\/\/new:8888\/?post_type=case_studies&p=295"
+      },
+      "modified":"2018-04-11T00:27:02",
+      "modified_gmt":"2018-04-11T00:27:02",
+      "slug":"thinktech",
+      "status":"publish",
+      "type":"case_studies",
+      "link":"http:\/\/api.akinsparker.com\/case_studies\/twf\/",
+      "title":{
+         "rendered":"thinktech"
+      },
+      "content":{
+         "rendered":"",
+         "protected":false
+      },
+      "template":"",
+      "acf":{
+         "name":"Think Tech.",
+         "description":"Bienvenidos a la era de Transformación Digital.",
+         "name_color":"",
+         "description_color":"",
+         "thumbnail":"http:\/\/localhost\/td\/img\/thumb_02.jpg",
+         "isFeatured":false,
+         "type":"Image",
+         "main_image":"http:\/\/localhost\/td\/img\/thinktech/portada.jpg",
+         "main_video":false,
+         "headline1":"A través de una visión Human - Tech  y Robótica.",
+         "sub_headline1":"<p>Optimizamos tus operaciones.<\/p>",
+         "background_color1":"#022229",
+         "headline_color1":"#ffffff",
+         "sub_headline_color1":"#ffffff",
+         "bottom_left_image":"http:\/\/localhost\/td\/img\/thinktech/01.jpg",
+         "right_image":"http:\/\/localhost\/td\/img\/thinktech/02.jpg",
+         "headline2":"La tecnología se ha convertido en una herramienta vital en las compañías.",
+         "sub_headline2":"Transformación Digital.",
+         "background_color2":"#15a4a5",
+         "headline_color2":"#ffffff",
+         "sub_headline_color2":"#ffffff",
+         "left_image":"http:\/\/localhost\/td\/img\/thinktech/03.jpg",
+         "bottom_right_image":"http:\/\/localhost\/td\/img\/thinktech/04.jpg",
+         "show_controls":true,
+         "vimeo_link":"https:\/\/player.vimeo.com\/external\/72700440.hd.mp4?s=68b335e06b24a93b02198d157dcf27738f6f74b0&profile_id=113"
+      },
+      "_links":{
+         "self":[
+            {
+               "href":"http:\/\/api.akinsparker.com\/wp-json\/wp\/v2\/case_studies\/295"
+            }
+         ],
+         "collection":[
+            {
+               "href":"http:\/\/api.akinsparker.com\/wp-json\/wp\/v2\/case_studies"
+            }
+         ],
+         "about":[
+            {
+               "href":"http:\/\/api.akinsparker.com\/wp-json\/wp\/v2\/types\/case_studies"
+            }
+         ],
+         "wp:attachment":[
+            {
+               "href":"http:\/\/api.akinsparker.com\/wp-json\/wp\/v2\/media?parent=295"
+            }
+         ],
+         "curies":[
+            {
+               "name":"wp",
+               "href":"https:\/\/api.w.org\/{rel}",
+               "templated":true
+            }
+         ]
+      }
+   }
+]
